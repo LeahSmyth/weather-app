@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 425 425" style="enable-background:new 0 0 425 425;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:#1B1D28;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Arimo';}
+	.st4{font-size:20.8578px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="43.7" y1="347.55" x2="383.3004" y2="347.55" gradientTransform="matrix(1 0 0 1 0 -140)">
+	<stop  offset="0" style="stop-color:#FDEFF5"/>
+	<stop  offset="0.1832" style="stop-color:#FDE8E9"/>
+	<stop  offset="1" style="stop-color:#E84136"/>
+</linearGradient>
+<path class="st0" d="M213.6,122.6c-93.8,0-169.9,76.1-169.9,169.9h50.8c0-65.7,53.3-119,119-119s119,53.3,119,119h50.8
+	C383.5,198.7,307.4,122.6,213.6,122.6z"/>
+<g>
+	<g>
+		<line class="st1" x1="328.4" y1="274.7" x2="383.5" y2="265.8"/>
+		<line class="st1" x1="323.7" y1="257.1" x2="377.2" y2="239.8"/>
+		<line class="st1" x1="316.8" y1="240.5" x2="366.8" y2="215.2"/>
+		<line class="st1" x1="307.4" y1="225.2" x2="352.7" y2="192.4"/>
+		<line class="st1" x1="297" y1="209.5" x2="335.2" y2="172"/>
+		<line class="st1" x1="282.8" y1="198.4" x2="314.7" y2="154.7"/>
+		<line class="st1" x1="266.8" y1="188.7" x2="291.7" y2="140.7"/>
+		<line class="st1" x1="249.4" y1="182.2" x2="266.8" y2="130.5"/>
+		<line class="st1" x1="231.5" y1="178.1" x2="240.5" y2="124.3"/>
+		<line class="st1" x1="213.6" y1="176.3" x2="213.6" y2="122.2"/>
+		<line class="st1" x1="195.8" y1="179.3" x2="186.7" y2="124.3"/>
+		<line class="st1" x1="177.9" y1="183.2" x2="160.5" y2="130.5"/>
+		<line class="st1" x1="160.5" y1="189.4" x2="135.5" y2="140.7"/>
+		<line class="st1" x1="145.5" y1="199.6" x2="112.5" y2="154.7"/>
+		<line class="st1" x1="132.1" y1="211.2" x2="92" y2="172"/>
+		<line class="st1" x1="119.9" y1="224.7" x2="74.5" y2="192.4"/>
+		<line class="st1" x1="111" y1="240.7" x2="60.4" y2="215.2"/>
+		<line class="st1" x1="103.8" y1="257.2" x2="50" y2="239.8"/>
+		<line class="st1" x1="99.3" y1="274.8" x2="43.7" y2="265.8"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 57.0617 322.1526)" class="st2 st3 st4">CHANCES OF GETTING BURNT</text>
+</svg>
