@@ -46,9 +46,9 @@ nav a{
 
 #arrow{
     position:absolute;
-    width:39%;
-    right:30.5%;
-    top:37%;
+    width:37%;
+    right:31%;
+    top:39%;
     transition: all ease-in-out 500ms;
 }
 
